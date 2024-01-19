@@ -81,7 +81,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 ## Happy coding! 🚀
-
-```vbnet
-Make sure to replace `your_project_logo.png` with the actual logo for your project. Additionally, you can further customize the README to suit your project specific features and requirements. Adding a table of contents, clear section headers, and visual elements like logos or badges can make your README more attractive and user-friendly.
-```
