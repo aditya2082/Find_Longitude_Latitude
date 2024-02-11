@@ -76,6 +76,9 @@ The response will be in JSON format:
 ## Securing the API
 To secure the API, consider implementing authentication and authorization mechanisms provided by Django Rest Framework. Consult the DRF documentation for more details.
 
+## Summurry
+The Django API provides seamless access to latitude and longitude coordinates by inputting a zip code. It simplifies location-based operations by offering effortless retrieval of geographic data. This API streamline processes that require geographical coordinates, enhancing efficiency in various applications such as mapping, weather forecasting, and location-based services. With its integration into Django, developers can easily incorporate this functionality into their projects, reducing the complexity of handling geographic data. Overall, it offers a convenient solution for accessing location coordinates based on zip codes within Django applications.
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
